@@ -70,7 +70,7 @@
         <mxCell id="22o8AH4_n1JYufXhixSb-26" edge="1" parent="1" source="22o8AH4_n1JYufXhixSb-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="22o8AH4_n1JYufXhixSb-25" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="22o8AH4_n1JYufXhixSb-18" parent="1" style="rhombus;whiteSpace=wrap;shapeInside=1;fillColor=#cdeb8b;strokeColor=#36393d;sketch=0;pointerEvents=1;resizable=1;rounded=1;roundedPerimeter=1;fontSize=14;" value="Apakah data buku ditemukan ?" vertex="1">
+        <mxCell id="22o8AH4_n1JYufXhixSb-18" parent="1" style="rhombus;whiteSpace=wrap;shapeInside=1;fillColor=#ffcc99;strokeColor=#36393d;sketch=0;pointerEvents=1;resizable=1;rounded=1;roundedPerimeter=1;fontSize=14;" value="Apakah data buku ditemukan ?" vertex="1">
           <mxGeometry height="130" width="142.5" x="543.75" y="690" as="geometry" />
         </mxCell>
         <mxCell id="22o8AH4_n1JYufXhixSb-23" edge="1" parent="1" source="22o8AH4_n1JYufXhixSb-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="22o8AH4_n1JYufXhixSb-22" value="">

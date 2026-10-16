@@ -71,7 +71,7 @@
         <mxCell id="ylpx2one5edyVBywV2ik-8" edge="1" parent="1" source="D15VkjmGQ4y-cZch09fn-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="ylpx2one5edyVBywV2ik-7" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="D15VkjmGQ4y-cZch09fn-32" parent="1" style="rhombus;whiteSpace=wrap;shapeInside=1;fillColor=#cdeb8b;strokeColor=#36393d;rounded=1;roundedPerimeter=1;" value="Yakin ingin menghapus buku ?" vertex="1">
+        <mxCell id="D15VkjmGQ4y-cZch09fn-32" parent="1" style="rhombus;whiteSpace=wrap;shapeInside=1;fillColor=#ffcc99;strokeColor=#36393d;rounded=1;roundedPerimeter=1;" value="Yakin ingin menghapus buku ?" vertex="1">
           <mxGeometry height="110" width="115" x="552.5" y="630" as="geometry" />
         </mxCell>
         <mxCell id="ylpx2one5edyVBywV2ik-4" edge="1" parent="1" source="ylpx2one5edyVBywV2ik-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="D15VkjmGQ4y-cZch09fn-25" value="">

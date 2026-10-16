@@ -82,7 +82,7 @@
         <mxCell id="59-FPc1AccRf1-YsI_St-53" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="59-FPc1AccRf1-YsI_St-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="59-FPc1AccRf1-YsI_St-52" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="59-FPc1AccRf1-YsI_St-46" parent="WIyWlLk6GJQsqaUBKTNV-1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;fillColor=#cdeb8b;strokeColor=#36393d;rounded=1;" value="&lt;font size=&quot;1&quot;&gt;Apakah data sudah ada di Database ?&lt;/font&gt;" vertex="1">
+        <mxCell id="59-FPc1AccRf1-YsI_St-46" parent="WIyWlLk6GJQsqaUBKTNV-1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;fillColor=#ffcc99;strokeColor=#36393d;rounded=1;" value="&lt;font size=&quot;1&quot;&gt;Apakah data sudah ada di Database ?&lt;/font&gt;" vertex="1">
           <mxGeometry height="140" width="160" x="540" y="730" as="geometry" />
         </mxCell>
         <mxCell id="59-FPc1AccRf1-YsI_St-51" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="59-FPc1AccRf1-YsI_St-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="59-FPc1AccRf1-YsI_St-50" value="">
