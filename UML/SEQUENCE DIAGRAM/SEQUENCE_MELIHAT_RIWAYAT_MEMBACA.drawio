@@ -1,0 +1,285 @@
+<mxfile host="Electron">
+  <diagram name="Page-1" id="38Pmw775PdRCe1GRUrVl">
+    <mxGraphModel dx="2146" dy="2490" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Ph8_rO8BPfjtiYQgSh_C-2" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" value="User" vertex="1">
+          <mxGeometry height="60" width="30" x="50" y="-1090" as="geometry" />
+        </mxCell>
+        <mxCell id="Ph8_rO8BPfjtiYQgSh_C-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="RiwayatMembacaUI" vertex="1">
+          <mxGeometry height="30" width="135" x="200" y="-1030" as="geometry" />
+        </mxCell>
+        <mxCell id="Ph8_rO8BPfjtiYQgSh_C-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="BukuController" vertex="1">
+          <mxGeometry height="30" width="135" x="450" y="-1030" as="geometry" />
+        </mxCell>
+        <mxCell id="Ph8_rO8BPfjtiYQgSh_C-8" parent="1" style="ellipse;shape=umlControl;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="50" width="43.75" x="495.62" y="-1085" as="geometry" />
+        </mxCell>
+        <mxCell id="Ph8_rO8BPfjtiYQgSh_C-9" parent="1" style="shape=umlBoundary;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="40" width="50" x="242.5" y="-1080" as="geometry" />
+        </mxCell>
+        <mxCell id="Ph8_rO8BPfjtiYQgSh_C-11" parent="1" style="ellipse;shape=umlEntity;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="44" width="44" x="725.5" y="-1082" as="geometry" />
+        </mxCell>
+        <mxCell id="Ph8_rO8BPfjtiYQgSh_C-12" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Database" vertex="1">
+          <mxGeometry height="30" width="135" x="680" y="-1030" as="geometry" />
+        </mxCell>
+        <mxCell id="Ph8_rO8BPfjtiYQgSh_C-21" edge="1" parent="1" source="Ph8_rO8BPfjtiYQgSh_C-35" style="endArrow=none;dashed=1;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="63.290000000000006" y="-20" as="sourcePoint" />
+            <mxPoint x="64.5" y="-1000" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ph8_rO8BPfjtiYQgSh_C-22" edge="1" parent="1" source="Ph8_rO8BPfjtiYQgSh_C-41" style="endArrow=none;dashed=1;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="265.65" y="-20" as="sourcePoint" />
+            <mxPoint x="267" y="-1000" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ph8_rO8BPfjtiYQgSh_C-23" edge="1" parent="1" source="Ph8_rO8BPfjtiYQgSh_C-47" style="endArrow=none;dashed=1;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="516.23" y="-20" as="sourcePoint" />
+            <mxPoint x="517" y="-1000" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ph8_rO8BPfjtiYQgSh_C-24" edge="1" parent="1" style="endArrow=none;dashed=1;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="747" y="-200" as="sourcePoint" />
+            <mxPoint x="747" y="-1000" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ph8_rO8BPfjtiYQgSh_C-31" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint y="-1119" as="sourcePoint" />
+            <mxPoint x="826" y="-1119" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ph8_rO8BPfjtiYQgSh_C-33" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=18;" value="SEQUENCE DIAGRAM MELIHAT RIWAYAT MEMBACA" vertex="1">
+          <mxGeometry height="30" width="792" x="18" y="-1160" as="geometry" />
+        </mxCell>
+        <mxCell id="Ph8_rO8BPfjtiYQgSh_C-37" edge="1" parent="1" source="Ph8_rO8BPfjtiYQgSh_C-63" style="endArrow=none;dashed=1;html=1;rounded=0;" target="Ph8_rO8BPfjtiYQgSh_C-35" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="64.83" y="-250" as="sourcePoint" />
+            <mxPoint x="64.83000000000003" y="-900" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ph8_rO8BPfjtiYQgSh_C-35" parent="1" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;sequenceEdgeStyle&quot;,&quot;libavoidRouting&quot;:0,&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#cce5ff;strokeColor=#36393d;" value="" vertex="1">
+          <mxGeometry height="50" width="10" x="60" y="-980" as="geometry" />
+        </mxCell>
+        <mxCell id="Ph8_rO8BPfjtiYQgSh_C-42" edge="1" parent="1" style="endArrow=none;dashed=1;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="267.21" y="-200" as="sourcePoint" />
+            <mxPoint x="267.21" y="-900" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ph8_rO8BPfjtiYQgSh_C-41" parent="1" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;sequenceEdgeStyle&quot;,&quot;libavoidRouting&quot;:0,&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#cce5ff;strokeColor=#36393d;" value="" vertex="1">
+          <mxGeometry height="720" width="10" x="262.5" y="-970" as="geometry" />
+        </mxCell>
+        <mxCell id="Ph8_rO8BPfjtiYQgSh_C-45" edge="1" parent="1" source="Ph8_rO8BPfjtiYQgSh_C-35" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=sequenceEdgeStyle;libavoidRouting=0;curved=0;rounded=0;" target="Ph8_rO8BPfjtiYQgSh_C-41" value="1. Pilih menu &quot;Riwayat Membaca&quot;">
+          <mxGeometry relative="1" width="80" as="geometry">
+            <Array as="points">
+              <mxPoint x="156.25" y="-960" />
+            </Array>
+            <mxPoint x="150" y="-960" as="sourcePoint" />
+            <mxPoint x="230" y="-960" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ph8_rO8BPfjtiYQgSh_C-46" edge="1" parent="1" source="Ph8_rO8BPfjtiYQgSh_C-41" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=sequenceEdgeStyle;libavoidRouting=0;curved=0;rounded=0;" target="Ph8_rO8BPfjtiYQgSh_C-47" value="3. Request Data Riwayat Membaca">
+          <mxGeometry relative="1" width="80" as="geometry">
+            <Array as="points">
+              <mxPoint x="411.25" y="-940" />
+            </Array>
+            <mxPoint x="310" y="-940" as="sourcePoint" />
+            <mxPoint x="485.5" y="-940" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ph8_rO8BPfjtiYQgSh_C-47" parent="1" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;sequenceEdgeStyle&quot;,&quot;libavoidRouting&quot;:0,&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#cce5ff;strokeColor=#36393d;" value="" vertex="1">
+          <mxGeometry height="550" width="10" x="512.5" y="-950" as="geometry" />
+        </mxCell>
+        <mxCell id="Ph8_rO8BPfjtiYQgSh_C-49" parent="1" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;sequenceEdgeStyle&quot;,&quot;libavoidRouting&quot;:0,&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#cce5ff;strokeColor=#36393d;" value="" vertex="1">
+          <mxGeometry height="80" width="10" x="742.5" y="-930" as="geometry" />
+        </mxCell>
+        <mxCell id="Ph8_rO8BPfjtiYQgSh_C-51" edge="1" parent="1" source="Ph8_rO8BPfjtiYQgSh_C-47" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=sequenceEdgeStyle;libavoidRouting=0;curved=0;rounded=0;" target="Ph8_rO8BPfjtiYQgSh_C-49" value="3. Mengambil Data Buku">
+          <mxGeometry relative="1" width="80" as="geometry">
+            <Array as="points">
+              <mxPoint x="632.5" y="-920" />
+            </Array>
+            <mxPoint x="520" y="-920" as="sourcePoint" />
+            <mxPoint x="742.5" y="-920" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ph8_rO8BPfjtiYQgSh_C-52" edge="1" parent="1" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=sequenceEdgeStyle;libavoidRouting=0;curved=0;rounded=0;" target="Ph8_rO8BPfjtiYQgSh_C-47" value="4. Mengembalikan Data Buku">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="702.5" y="-860" />
+            </Array>
+            <mxPoint x="742.5" y="-860" as="sourcePoint" />
+            <mxPoint x="662.5" y="-860" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ph8_rO8BPfjtiYQgSh_C-53" edge="1" parent="1" source="Ph8_rO8BPfjtiYQgSh_C-47" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=sequenceEdgeStyle;libavoidRouting=0;curved=0;rounded=0;" target="Ph8_rO8BPfjtiYQgSh_C-41" value="5. Mengirim Data Buku">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="392.5" y="-910" />
+            </Array>
+            <mxPoint x="511.99" y="-840" as="sourcePoint" />
+            <mxPoint x="292.49" y="-840" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ph8_rO8BPfjtiYQgSh_C-57" parent="1" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;fillColor=default;strokeColor=#3399FF;strokeWidth=2;" value="alt" vertex="1">
+          <mxGeometry height="170" width="289.37" x="250" y="-800" as="geometry" />
+        </mxCell>
+        <mxCell id="Ph8_rO8BPfjtiYQgSh_C-58" parent="1" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;" value="[Ada data &quot;Terakhir Dibaca&quot;]" vertex="1">
+          <mxGeometry height="20" width="160" x="320" y="-800" as="geometry" />
+        </mxCell>
+        <mxCell id="Ph8_rO8BPfjtiYQgSh_C-73" edge="1" parent="1" style="endArrow=none;dashed=1;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="250" y="-723" as="sourcePoint" />
+            <mxPoint x="540" y="-723" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ph8_rO8BPfjtiYQgSh_C-75" edge="1" parent="1" source="ZNEbCFiWCVj_tFPOlbn3-16" style="endArrow=none;dashed=1;html=1;rounded=0;" target="Ph8_rO8BPfjtiYQgSh_C-47" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="516.23" y="-240" as="sourcePoint" />
+            <mxPoint x="516.23" y="-405" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ph8_rO8BPfjtiYQgSh_C-79" edge="1" parent="1" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=sequenceEdgeStyle;libavoidRouting=0;curved=0;rounded=0;" target="Ph8_rO8BPfjtiYQgSh_C-63" value="12. Menampilkan Halaman&lt;div&gt;daftar Riwayat Membaca&lt;/div&gt;">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="148" y="-390" />
+            </Array>
+            <mxPoint x="262.5" y="-390" as="sourcePoint" />
+            <mxPoint x="33.5" y="-390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZNEbCFiWCVj_tFPOlbn3-3" edge="1" parent="1" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=sequenceEdgeStyle;libavoidRouting=0;curved=0;rounded=0;" value="5. Tampilkan Daftar Buku &quot;Terakhir Dibaca&quot;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint as="offset" />
+            <Array as="points">
+              <mxPoint x="371.2500000000001" y="-740" />
+            </Array>
+            <mxPoint x="512.49" y="-740" as="sourcePoint" />
+            <mxPoint x="272.5" y="-740" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZNEbCFiWCVj_tFPOlbn3-4" parent="1" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;" value="[Tidak ada Data]" vertex="1">
+          <mxGeometry height="20" width="97.5" x="280" y="-720" as="geometry" />
+        </mxCell>
+        <mxCell id="ZNEbCFiWCVj_tFPOlbn3-5" edge="1" parent="1" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=sequenceEdgeStyle;libavoidRouting=0;curved=0;rounded=0;" value="6. Tampilkan &quot;Belum ada buku&quot;">
+          <mxGeometry relative="1" x="0.0084" as="geometry">
+            <mxPoint as="offset" />
+            <Array as="points">
+              <mxPoint x="392.495" y="-660" />
+            </Array>
+            <mxPoint x="512.49" y="-660" as="sourcePoint" />
+            <mxPoint x="272.5" y="-660" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZNEbCFiWCVj_tFPOlbn3-6" parent="1" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;fillColor=default;strokeColor=#3399FF;strokeWidth=2;" value="alt" vertex="1">
+          <mxGeometry height="170" width="289.37" x="250" y="-610" as="geometry" />
+        </mxCell>
+        <mxCell id="ZNEbCFiWCVj_tFPOlbn3-8" parent="1" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;" value="[Ada data &quot;Terakhir Dibaca&quot;]" vertex="1">
+          <mxGeometry height="20" width="160" x="320" y="-605" as="geometry" />
+        </mxCell>
+        <mxCell id="ZNEbCFiWCVj_tFPOlbn3-9" parent="1" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;html=1;" value="[Tidak ada Data]" vertex="1">
+          <mxGeometry height="20" width="97.5" x="280" y="-520" as="geometry" />
+        </mxCell>
+        <mxCell id="ZNEbCFiWCVj_tFPOlbn3-10" edge="1" parent="1" style="endArrow=none;dashed=1;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="250" y="-525.5" as="sourcePoint" />
+            <mxPoint x="540" y="-525.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZNEbCFiWCVj_tFPOlbn3-11" edge="1" parent="1" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=sequenceEdgeStyle;libavoidRouting=0;curved=0;rounded=0;" value="7. Tampilkan Daftar Buku &quot;Selesai Dibaca&quot;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint as="offset" />
+            <Array as="points">
+              <mxPoint x="392.4949999999999" y="-540" />
+            </Array>
+            <mxPoint x="512.49" y="-540" as="sourcePoint" />
+            <mxPoint x="272.5" y="-540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZNEbCFiWCVj_tFPOlbn3-12" edge="1" parent="1" source="Ph8_rO8BPfjtiYQgSh_C-47" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=sequenceEdgeStyle;libavoidRouting=0;curved=0;rounded=0;" target="Ph8_rO8BPfjtiYQgSh_C-41" value="8. Tampilkan &quot;Belum ada buku&quot;">
+          <mxGeometry relative="1" x="-0.025" as="geometry">
+            <mxPoint as="offset" />
+            <Array as="points">
+              <mxPoint x="394.75" y="-465" />
+            </Array>
+            <mxPoint x="507" y="-465" as="sourcePoint" />
+            <mxPoint x="277" y="-465" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZNEbCFiWCVj_tFPOlbn3-13" edge="1" parent="1" source="ZNEbCFiWCVj_tFPOlbn3-20" style="endArrow=none;dashed=1;html=1;rounded=0;" target="Ph8_rO8BPfjtiYQgSh_C-63" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="64.83" y="-250" as="sourcePoint" />
+            <mxPoint x="65" y="-930" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ph8_rO8BPfjtiYQgSh_C-63" parent="1" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;sequenceEdgeStyle&quot;,&quot;libavoidRouting&quot;:0,&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#cce5ff;strokeColor=#36393d;" value=" " vertex="1">
+          <mxGeometry height="90" width="10" x="60" y="-410" as="geometry" />
+        </mxCell>
+        <mxCell id="ZNEbCFiWCVj_tFPOlbn3-14" edge="1" parent="1" source="Ph8_rO8BPfjtiYQgSh_C-63" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=sequenceEdgeStyle;libavoidRouting=0;curved=0;rounded=0;" target="Ph8_rO8BPfjtiYQgSh_C-41" value="13. Klik Buku">
+          <mxGeometry relative="1" width="80" as="geometry">
+            <mxPoint as="offset" />
+            <Array as="points">
+              <mxPoint x="191.5" y="-350" />
+            </Array>
+            <mxPoint x="120" y="-350" as="sourcePoint" />
+            <mxPoint x="313" y="-350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZNEbCFiWCVj_tFPOlbn3-17" edge="1" parent="1" style="endArrow=none;dashed=1;html=1;rounded=0;" target="ZNEbCFiWCVj_tFPOlbn3-16" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="516.23" y="-200" as="sourcePoint" />
+            <mxPoint x="516" y="-400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZNEbCFiWCVj_tFPOlbn3-16" parent="1" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;sequenceEdgeStyle&quot;,&quot;libavoidRouting&quot;:0,&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#cce5ff;strokeColor=#36393d;" value=" " vertex="1">
+          <mxGeometry height="70" width="10" x="512.5" y="-340" as="geometry" />
+        </mxCell>
+        <mxCell id="ZNEbCFiWCVj_tFPOlbn3-18" edge="1" parent="1" source="Ph8_rO8BPfjtiYQgSh_C-41" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=sequenceEdgeStyle;libavoidRouting=0;curved=0;rounded=0;" target="ZNEbCFiWCVj_tFPOlbn3-16" value="14. Request Detail Buku dan Progress">
+          <mxGeometry relative="1" width="80" x="-0.0667" as="geometry">
+            <mxPoint as="offset" />
+            <Array as="points">
+              <mxPoint x="392.5" y="-325" />
+            </Array>
+            <mxPoint x="287" y="-325" as="sourcePoint" />
+            <mxPoint x="480" y="-325" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZNEbCFiWCVj_tFPOlbn3-19" edge="1" parent="1" source="ZNEbCFiWCVj_tFPOlbn3-16" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=sequenceEdgeStyle;libavoidRouting=0;curved=0;rounded=0;" target="Ph8_rO8BPfjtiYQgSh_C-41" value="15. Menampilkan detail buku dan&lt;div&gt;progress membaca&lt;/div&gt;">
+          <mxGeometry relative="1" x="-0.0625" as="geometry">
+            <mxPoint x="1" as="offset" />
+            <Array as="points">
+              <mxPoint x="391" y="-280" />
+            </Array>
+            <mxPoint x="509.5" y="-280" as="sourcePoint" />
+            <mxPoint x="317" y="-280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZNEbCFiWCVj_tFPOlbn3-21" edge="1" parent="1" style="endArrow=none;dashed=1;html=1;rounded=0;" target="ZNEbCFiWCVj_tFPOlbn3-20" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="64.83" y="-200" as="sourcePoint" />
+            <mxPoint x="65" y="-320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZNEbCFiWCVj_tFPOlbn3-20" parent="1" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;sequenceEdgeStyle&quot;,&quot;libavoidRouting&quot;:0,&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#cce5ff;strokeColor=#36393d;" value=" " vertex="1">
+          <mxGeometry height="40" width="10" x="60" y="-290" as="geometry" />
+        </mxCell>
+        <mxCell id="ZNEbCFiWCVj_tFPOlbn3-22" edge="1" parent="1" source="Ph8_rO8BPfjtiYQgSh_C-41" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=sequenceEdgeStyle;libavoidRouting=0;curved=0;rounded=0;" target="ZNEbCFiWCVj_tFPOlbn3-20" value="16. Menampilkan Halaman&lt;div&gt;detail buku&lt;/div&gt;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint as="offset" />
+            <Array as="points">
+              <mxPoint x="161.25" y="-270" />
+            </Array>
+            <mxPoint x="300" y="-270" as="sourcePoint" />
+            <mxPoint x="60" y="-270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
