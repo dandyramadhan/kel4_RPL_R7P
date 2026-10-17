@@ -1,6 +1,6 @@
-<mxfile host="Electron">
+<mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="z8lreCFYzTK-wn7xDn0h">
-    <mxGraphModel dx="2060" dy="1268" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="light-dark(#ffffff, #121212)" math="0" shadow="0">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="1169" pageHeight="827" background="light-dark(#ffffff, #121212)" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -34,7 +34,7 @@
         <mxCell id="YCqX_THIiOSE7kJncpvS-30" edge="1" parent="1" source="YCqX_THIiOSE7kJncpvS-1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;endArrow=none;endFill=0;" target="YCqX_THIiOSE7kJncpvS-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="YCqX_THIiOSE7kJncpvS-1" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="Actor" vertex="1">
+        <mxCell id="YCqX_THIiOSE7kJncpvS-1" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;User&lt;/font&gt;" vertex="1">
           <mxGeometry height="103" width="51.5" x="240" y="362" as="geometry" />
         </mxCell>
         <mxCell id="YCqX_THIiOSE7kJncpvS-6" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" value="Registrasi Akun" vertex="1">
@@ -74,28 +74,28 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YCqX_THIiOSE7kJncpvS-33" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#cce5ff;strokeColor=#36393d;" value="" vertex="1">
-          <mxGeometry height="17" width="17" x="940" y="656.5" as="geometry" />
+          <mxGeometry height="17" width="17" x="780" y="616.5" as="geometry" />
         </mxCell>
         <mxCell id="YCqX_THIiOSE7kJncpvS-34" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#647687;strokeColor=#314354;fontColor=#ffffff;" value="" vertex="1">
-          <mxGeometry height="17" width="17" x="940" y="696.5" as="geometry" />
+          <mxGeometry height="17" width="17" x="780" y="656.5" as="geometry" />
         </mxCell>
         <mxCell id="YCqX_THIiOSE7kJncpvS-35" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;" value="" vertex="1">
-          <mxGeometry height="17" width="17" x="940" y="736.5" as="geometry" />
+          <mxGeometry height="17" width="17" x="780" y="696.5" as="geometry" />
         </mxCell>
         <mxCell id="YCqX_THIiOSE7kJncpvS-36" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffcd28;gradientColor=#ffa500;strokeColor=#d79b00;" value="" vertex="1">
-          <mxGeometry height="17" width="17" x="940" y="776.5" as="geometry" />
+          <mxGeometry height="17" width="17" x="780" y="736.5" as="geometry" />
         </mxCell>
         <mxCell id="YCqX_THIiOSE7kJncpvS-38" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="Autentikasi" vertex="1">
-          <mxGeometry height="30" width="173" x="970" y="650" as="geometry" />
+          <mxGeometry height="30" width="173" x="810" y="610" as="geometry" />
         </mxCell>
         <mxCell id="YCqX_THIiOSE7kJncpvS-39" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="Monitoring" vertex="1">
-          <mxGeometry height="30" width="173" x="970" y="690" as="geometry" />
+          <mxGeometry height="30" width="173" x="810" y="650" as="geometry" />
         </mxCell>
         <mxCell id="YCqX_THIiOSE7kJncpvS-40" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="Status dan Progres" vertex="1">
-          <mxGeometry height="30" width="173" x="970" y="730" as="geometry" />
+          <mxGeometry height="30" width="173" x="810" y="690" as="geometry" />
         </mxCell>
         <mxCell id="YCqX_THIiOSE7kJncpvS-41" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="Koleksi Buku" vertex="1">
-          <mxGeometry height="30" width="173" x="970" y="770" as="geometry" />
+          <mxGeometry height="30" width="173" x="810" y="730" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
