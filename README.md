@@ -6,10 +6,11 @@ Aplikasi berbasis web untuk mencatat koleksi buku, memantau progres halaman yang
 
 ## 👥 Anggota Kelompok (Kelompok 4 — Kelas R7P)
 
-| No | Nama Anggota             | NPM          |
-| 1  | Fauzi Apri Diyanarta     | 202343501334 |
-| 2  | Muhammad Dandy Ramadhan  | 202343501314 |
-| 3  | Nur Syahnita             | 202343501301 |
+| No | Nama Anggota | NPM |
+| :--- | :--- | :--- |
+| 1 | Fauzi Apri D. | 202343501334 |
+| 2 | M. Dandy R. | 202343501314 |
+| 3 | Nur Syahnita | 202343501301 |
 
 ---
 
